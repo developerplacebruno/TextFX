@@ -5,7 +5,7 @@ Visual effects for text with customization support in Roblox.
 
 - **Counting**: Gradually changes the number in a text. Example of use: currency display and stopwatch.
 
-```text
+```luau
 TextFX.Counting(label, 0, { prefix = "$" })
 task.wait(2)
 TextFX.Counting(label, 5, { prefix = "$" })
