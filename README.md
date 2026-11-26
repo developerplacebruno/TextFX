@@ -1,5 +1,5 @@
 # TextFX
-Visual effects for text with customization support in Roblox
+Visual effects for text with customization support in Roblox.
 
 ## Effects:
 
