@@ -2,14 +2,12 @@
 Visual effects for text with customization support in Roblox.
 
 ## Effects
-
 - **Counting**: Gradually changes the number in a text. Example of use: currency display and stopwatch.
 ```luau
 TextFX.Counting(textLabel, 0, { prefix = "$" })
 task.wait(5)
 TextFX.Counting(textLabel, 5, { prefix = "$" })
 ```
-
 - **Typewriter**: Displays the text gradually, in the style of a typewriter. Example of use: notification, tutorial, and dialogue.
 ```luau
 TextFX.Typewriter(textLabel, "Collect $10!")
